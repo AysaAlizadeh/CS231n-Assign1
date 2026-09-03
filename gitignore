@@ -1,0 +1,22 @@
+# Dataset - do not upload (too large for GitHub)
+cifar-10-batches-py/
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (optional - remove if you want to track results)
+*.log
