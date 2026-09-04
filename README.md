@@ -1,4 +1,4 @@
-# CS231n Assignment 1 — Image Classification on CIFAR-10
+# CS231n Assignment 1 — Image Classification on CIFAR-10 - Stanford Assignment
 
 Implementation of four classic image classifiers from scratch using NumPy, trained and evaluated on the **CIFAR-10** dataset:
 
